@@ -1,0 +1,6 @@
+Day1 Lab:
+1. Install the VS Code (https://code.visualstudio.com/download)
+2. Install the Azure Resource Manager Snippets extension in VS Code
+3. Author the basic ARM template to deploy the Virtual Network
+
+
